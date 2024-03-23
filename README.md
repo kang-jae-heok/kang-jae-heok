@@ -1,27 +1,27 @@
-![header](https://github.com/kang-jae-heok/kang-jae-heok/assets/79886603/b8a91a8e-a8c6-40b5-8dbd-670ff73810cb)
+![header](https://github.com/kang-jae-heok/kang-jae-heok/assets/79886603/8297402c-30e3-4b00-83f2-5406143e2f07)
 
 
 ## About Me
-안녕하세요. 백엔드 서버 개발자로, 함께 성장하고 지식을 공유하는 것을 중요하게 생각합니다.
 
+### 코드로 마케팅 하는 iOS 앱 개발자 강재혁입니다 :)
 
-[YOUTHCON23](https://shorturl.at/blGJW) 에서 '멀티 모듈'에 대한 주제로 Hands-on 세션을 준비하여 발표한 경험도 있습니다. 이를 통해 적극적으로 지식을 공유하려고 노력합니다.
+‘앱’ 은 실용적이어야 합니다. 현재의 사람들이 가장 필요로 하고, 좋아하는 것이 무엇인지 늘 주시해야 합니다. 그래야만 가장 널리, 오래 사용될 실용적인 앱을 만들 수 있기 때문입니다.
 
-특별한 지시나 사수 없이도 회사 내에서 다양한 문제를 적극적으로 발견하고 이를 해결함으로써 지속적으로 성장하고 있습니다. 이런 과정에서 팀과 회사에 큰 기여를 하고 있으며, 이를 통해 프로젝트가 더욱 효율적이고 안정적으로 진행될 수 있도록 노력합니다.
+저는 그것이 앱을 만들고 유지 보수하는 개발자의 기본자세라고 생각합니다. 
+
+그래서 늘 현재의 트렌드를 파악하고, 미래 기술에 대한 통찰력을 가질 수 있도록 노력해왔습니다. 그리고 이제부터는 현재 사용하는 것이 아닌 미래에 필요할 것을 추천하고, 사용자에게 가장 적합한 솔루션을 제공해주는 **디지털 마케터**가 되고 싶습니다.
+
 
 ### 💼 Experience
 
-- **Mcscience** [2019-01 - 2021-06]
-- **F-lab Mentee** [2022-05 - 2023-02]
-- **ENDAND KOREAD** [2023-04 ~ 2023-11]
-- **VROONG** [2023-12 ~ 재직중]
+- **NOTEGG** [2022.06 ~ 2024.02]
+- **F-lab Mentee** [2023.11 ~ 2024.3]
 
 ### 🤝 Contact
 
-- 📧 **Email**: audrn6689@gmail.com
+- 📧 **Email**: kjhabc8707@gmail.com
 
 
-### 📜 Blog: https://dding9code.tistory.com/
-### 📚 Team Project: [LiveCommerce Project](https://github.com/dding94/LiveCommerce)
+### 📜 Blog: https://velog.io/@abc8707/posts
 
 <!--END_SECTION:waka-->
